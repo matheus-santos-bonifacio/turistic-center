@@ -1,0 +1,31 @@
+<ion-content [fullscreen]="true">
+  <div class="container">
+    <!-- Thumbnail -->
+    <ion-thumbnail>
+      <img src="./assets/img/{{ data.image }}" />
+    </ion-thumbnail>
+
+    <!-- Name -->
+    <ion-item>
+      <h3>{{ data.name }}</h3>
+    </ion-item>
+
+    <!-- Address -->
+    <ion-item>
+      <h3>Address: {{ data.address }}</h3>
+    </ion-item>
+
+    <!-- History -->
+    <ion-item>
+      <ion-text>
+        <p>{{ data.history }}</p>
+      </ion-text>
+    </ion-item>
+
+    <!-- Map -->
+    <ion-item style="cursor: pointer; margin-top: 100px">
+      <ion-icon slot="start" name="locate"></ion-icon>
+      <ion-button (click)="onpickupClick()">Pickup Location</ion-button>
+    </ion-item>
+  </div>
+</ion-content>

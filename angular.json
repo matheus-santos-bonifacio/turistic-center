@@ -31,8 +31,12 @@
                 "output": "./svg"
               }
             ],
-            "styles": ["src/theme/variables.scss", "src/global.scss"],
-            "scripts": []
+            "styles": [
+              "src/theme/variables.scss",
+              "src/global.scss",
+              "node_modules/leaflet/dist/leaflet.css"
+            ],
+            "scripts": ["node_modules/leaflet/dist/leaflet.js"]
           },
           "configurations": {
             "production": {
@@ -166,6 +170,7 @@
     }
   },
   "cli": {
+    "analytics": "390dc67f-5d6c-49be-b276-2625216e02eb",
     "defaultCollection": "@ionic/angular-toolkit"
   },
   "schematics": {

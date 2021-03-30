@@ -1,20 +1,24 @@
-<ion-header [translucent]="true">
-  <ion-toolbar>
-    <ion-title>
-      Blank
-    </ion-title>
-  </ion-toolbar>
-</ion-header>
-
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Blank</ion-title>
-    </ion-toolbar>
-  </ion-header>
-
   <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
+    <div class="content">
+      <div class="card-item" *ngFor="let value of data">
+        <ion-card>
+          <ion-header>
+            <ion-card-title>
+              <ion-title> {{ value.name }} </ion-title>
+            </ion-card-title>
+          </ion-header>
+
+          <ion-card-content> {{ value.address }} </ion-card-content>
+
+          <ion-button
+            expand="block"
+            fill="outline"
+            [routerLink]="['/details', value.id]"
+            >See more</ion-button
+          >
+        </ion-card>
+      </div>
+    </div>
   </div>
 </ion-content>

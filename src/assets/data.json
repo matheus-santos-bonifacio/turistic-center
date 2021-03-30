@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Marco Padrão",
+    "address": "Av. Embaixador Pedro de Toledo, 649-531 - Centro, São Vicente - SP, 11320-440",
+    "history": "A cidade de São Vicente foi inaugurada em 1532, ou seja, em 2020 a cidade completou 488. Porém, quando a cidade fez 400 anos, em 1933, a cidade ganhou um monumento em comemoração. O monumento conhecido como Marco Padrão, está localizado no canto da Praia de Gonzaguinha, em meio as pedras que formam uma pequena ilha.",
+    "xlocation": -23.9706127,
+    "ylocation": -46.3873659,
+    "image": "001.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Niemeyer Monument",
+    "address": "Alameda Ari Barroso, S/N - Ilha Porchat, São Vicente - SP, 11320-400",
+    "history": "E quando o Brasil completou 500 anos de seu descobrimento, São Vicente também ganhou um monumento em comemoração a data. O Memorial dos 500 anos está localizado na Ilha Porchat e de lá é possível ter uma das vistas mais bonitas da região. O Memorial dos 500 anos foi desenvolvido pelo famoso arquiteto Oscar Niemeyer e hoje é tombado como patrimônio da cidade.",
+    "xlocation": -23.9795428,
+    "ylocation": -46.3709565,
+    "image": "001.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Praça 22 de Janeiro",
+    "address": "Pça. 22 de janeiro São Vicente, SP Brasil",
+    "history": "A Praça 22 de Janeiro é um lugar bastante interessante para você aproveitar uma tarde agradável em família, principalmente para quem está viajando com as crianças. Fica bem em frente a Praia de Gonzaguinha e oferece playground, alguns quiosques e, durante as comemorações, a praça costuma receber shows e apresentações diversas. ",
+    "xlocation": -23.9699649,
+    "ylocation": -46.3884428,
+    "image": "001.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Biquinha de Anchieta",
+    "address": "Praça 22 de Janeiro - Centro, São Vicente - SP, 11310-090",
+    "history": "Bem em frente a praça, na Praia de Gonzaguinha também está um dos locais mais famosos da cidade, a Biquinha de Anchieta. A Biquinha foi construída ainda em 1533, logo quando a cidade começou a surgir e, durante muito tempo, serviu como a principal fonte de água da cidade. Sua construção possui traços portugueses, com azulejos e trabalhados feitos à mão.",
+    "xlocation": -23.9699649,
+    "ylocation": -46.3884428,
+    "image": "001.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Parque Ecológico Voturuá - Zoológico Municipal",
+    "address": "Av. Dona Anita Costa, s/n - Vila Voturuá, São Vicente - SP, 11380-300",
+    "history": "Outro lugar super interessante para você visitar com a família e com as crianças é o Parque Ecológico Voturuá, que também abriga um zoológico municipal. Por lá você poderá conhecer mais de 100 espécies de animais, além de diversas plantas e arvores distribuídas em uma área de 825 m². E você ainda pode deixar as crianças brincando no playground ou até mesmo fazer trilhas em seu interior. O parque está localizado na Rua Dona Anita Costa, na Vila Voturuá.",
+    "xlocation": -23.9598772,
+    "ylocation": -46.3721577,
+    "image": "001.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Casa Martim Afonso",
+    "address": "Praça 22 de Janeiro, 469 - Centro, São Vicente - SP, 11310-090",
+    "history": "Martin Afonso foi o primeiro donatário da Capitânia de São Vicente, onde hoje encontra-se a cidade de São Vicente, governando o local durante muito tempo. Hoje, o local onde encontrava-se a residência de Martim Afonso ainda preserva alguns traços de sua construção original, abrigando também um museu com alguns objetos do período de colonização do Brasil. É um lugar bastante interessante para se conhecer, pois oferece várias informações sobre a história do nosso país e seus primeiros anos após a descoberta pelos portugueses.",
+    "xlocation": -23.9692946,
+    "ylocation": -46.3891886,
+    "image": "001.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Mercado Municipal",
+    "address": "Praça João Pessoa, 58 - Centro, São Vicente - SP, 11310-250",
+    "history": "E quer fazer compras de lembrancinhas, além de frutas, verduras e muito mais? Então que tal dar uma passadinha pelo Mercado Municipal? Localizado em prédio histórico, hoje a construção que abriga o mercado já foi a primeira câmara da cidade, além de quartel e cadeia. Porém, desde 1929, o local serve como o mercado municipal e é um local bem legal para se visitar, pois além de compras você pode apreciar um pouco da arquitetura antiga do lugar.",
+    "xlocation": -23.9691386,
+    "ylocation": -46.390475,
+    "image": "001.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Parque Cultural Vila de São Vicente",
+    "address": "161, Praça João Pessoa, 103 - Centro, São Vicente - SP, 11310-250",
+    "history": "E que tal mergulhar em um mundo totalmente diferente, com costumam que remetem o século XVI? Pois é essa experiência que você terá no Parque Cultural Vila de São Vicente. O local remete os primeiros anos da vila, considera como a primeira cidade do Brasil. Por lá você poderá saber um pouco mais sobre os costumes da época, ver objetos e mobílias, além de artistas caracterizados com roupas de época. É uma viagem no tempo.",
+    "xlocation": -23.9688147,
+    "ylocation": -46.3903767,
+    "image": "001.jpg"
+  }
+]
