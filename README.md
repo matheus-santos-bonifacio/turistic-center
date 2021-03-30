@@ -17,6 +17,20 @@ Já visitou São-Vicente, caso não tenha o proveito de ver alguns de seus princ
 
 ## init app
 
+### install the dependences
+
+```
+npm install
+```
+
+ou
+
+```
+yarn install
+```
+
+### start app
+
 ```
 npm run start
 ```
